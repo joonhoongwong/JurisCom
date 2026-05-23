@@ -5,6 +5,8 @@ Wong Joon Hoong
 G2505242K
 joonhoongwong@yahoo.com, jwong187@e.ntu.edu.sg
 
+Video to presentation slides: https://drive.google.com/file/d/1WkOCIohAbrCPzpB8e8AcF-FSWRPV3Qfc/view?usp=drive_link
+
 ## Data portion contribution (per assignment brief, +5%)
 
 **Collaborators on the data portion:** None. All work on the data portion is solo.
